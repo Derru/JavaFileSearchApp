@@ -1,2 +1,2 @@
 # JavaFileSearchApp
-A search app required as a practical from tafe
+A java application based around the idea of searching through a collection of DVD titles
